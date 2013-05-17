@@ -1,4 +1,3 @@
-
 public class Controle {
 
 	/**
@@ -8,6 +7,7 @@ public class Controle {
 		// TODO Auto-generated method stub
 		
 		// teste
+		//cláudio
 
 	}
 
